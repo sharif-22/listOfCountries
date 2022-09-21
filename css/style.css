@@ -1,0 +1,59 @@
+*{
+    font-family: 'Montserrat';
+}
+h1{
+    font-size: 45px;
+}
+p{
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+img{
+    width: 100%;
+    height: 350px;
+}
+
+#country{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    
+}
+.divElement{
+    margin: 20px;
+    border: 5px solid black;
+    padding: 15px;
+    background-color: rgb(246, 246, 246);
+    
+}
+
+.heading{
+    font-size: 75px;
+    text-align: center;
+    background-color: black;
+    border: 25px solid black;
+    margin-top: 0%;
+    color: aliceblue;
+    
+}
+
+
+/* Extra small devices (phones & tabs 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+    .heading{
+        font-size: 35px;
+        text-align: center;
+        background-color: black;
+        border: 3px solid black;
+        margin-top: 0%;
+        color: aliceblue;
+        
+    }
+    #country{
+    display: grid;
+    grid-template-columns: 1fr;
+
+  }
+
+}
