@@ -1,4 +1,4 @@
-# CountriesDB
+# listOfCountries
 page link :https://sharif-22.github.io/CountriesDB/
 
 # Desktop preview
