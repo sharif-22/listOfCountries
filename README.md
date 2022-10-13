@@ -1,5 +1,5 @@
 # listOfCountries
-page link :https://sharif-22.github.io/CountriesDB/
+page link :https://sharif-22.github.io/listOfCountries/
 
 # Desktop preview
 ![Screenshot (8)](https://user-images.githubusercontent.com/93029638/191556135-c9c68f76-0ebb-4876-8835-07b6f2b0455b.png)
